@@ -1,0 +1,6 @@
+framework module Pods_slack_app {
+  umbrella header "Pods-slack-app-umbrella.h"
+
+  export *
+  module * { export * }
+}
